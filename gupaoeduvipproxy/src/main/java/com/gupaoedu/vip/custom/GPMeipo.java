@@ -9,7 +9,7 @@ public class GPMeipo implements GPInvocationHandler {
 
     public Person p = null;
 
-    public Object getInstance(Person p) throws IOException {
+    public Object getInstance(Person p) throws Exception {
         this.p = p;
         Class clazz = p.getClass();
         System.out.println("被代理对象的class是："+clazz);
@@ -18,7 +18,7 @@ public class GPMeipo implements GPInvocationHandler {
 
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
         System.out.println("before");
-        System.out.println(method.invoke(this.p,args));
+        method.invoke(this.p,args);
         System.out.println("after");
         return null;
     }
