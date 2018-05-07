@@ -6,6 +6,7 @@ import java.lang.reflect.Proxy;
 
 public class Meipo implements InvocationHandler {
 
+    //被代理的对象作为一个成员变量保存
     private Person target = null;
 
 //    public Meipo(Person target){
