@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9860ee29-7945-4876-acb2-c43b9943f3fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/Dispatcher.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/DispatcherTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/IExcutor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/TargetA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/TargetB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/singleton/Singleton1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyListTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyA.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyB.java" />
       <change beforePath="$PROJECT_DIR$/../gupaoeduvipproxy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../gupaoeduvipproxy/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/qupaoeduvipfactory_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/qupaoeduvipfactory_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/qupaoeduvipfactory.iml" afterPath="$PROJECT_DIR$/qupaoeduvipfactory.iml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/Dispatcher.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/Dispatcher.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/DispatcherTest.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/DispatcherTest.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/IExcutor.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/IExcutor.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/TargetA.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/TargetA.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/TargetB.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/delegate/TargetB.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/Audi.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/Audi.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/Bwm.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/Bwm.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/Car.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/Car.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/SimpleFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/SimpleFactory.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/SimpleFactoryTest.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/factory/SimpleFactoryTest.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/singleton/Singleton1$1.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/singleton/Singleton1$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/singleton/Singleton1$LazyHolder.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/singleton/Singleton1$LazyHolder.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/singleton/Singleton1.class" afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/vip/singleton/Singleton1.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,39 +39,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/factory/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bwm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/factory/Bwm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-              <folding>
-                <element signature="e#97#98#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/factory/SimpleFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Singleton1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/singleton/Singleton1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/Dispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="e#140#141#0" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
@@ -104,12 +87,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DispatcherTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DispatcherTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/DispatcherTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyListTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#284#290#0" expanded="true" />
+                <element signature="e#659#665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,16 +155,6 @@
                 <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#158#159#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleFactoryTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/factory/SimpleFactoryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -169,6 +191,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/TargetA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/Dispatcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/DispatcherTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyA.java" />
       </list>
     </option>
   </component>
@@ -253,15 +279,6 @@
               <item name="qupaoeduvipfactory" type="b2602c69:ProjectViewProjectNode" />
               <item name="qupaoeduvipfactory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vip" type="462c0819:PsiDirectoryNode" />
-              <item name="delegate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qupaoeduvipfactory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qupaoeduvipfactory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DispatcherTest">
+  <component name="RunManager" selected="JUnit.MyListTest.MyListStrategyTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -358,6 +375,31 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="MyListTest.MyListStrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.vip.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="qupaoeduvipfactory" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu.vip.strategy" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.strategy.MyListTest" />
+      <option name="METHOD_NAME" value="MyListStrategyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -419,14 +461,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.SimpleFactoryTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.DispatcherTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MyListTest.MyListStrategyTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.DispatcherTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SimpleFactoryTest" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MyListTest.MyListStrategyTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DispatcherTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimpleFactoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -445,16 +489,26 @@
       <updated>1525705131164</updated>
       <workItem from="1525705132724" duration="992000" />
       <workItem from="1525790448564" duration="598000" />
-      <workItem from="1525864390709" duration="2431000" />
+      <workItem from="1525864390709" duration="4339000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyListTest_MyListStrategyTest - 2018.05.09 at 21h 21m 05s.xml">
+      <configuration name="MyListTest.MyListStrategyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_MyListStrategyTest - 2018.05.09 at 21h 22m 13s.xml">
+      <configuration name="MyListTest.MyListStrategyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_MyListStrategyTest - 2018.05.09 at 21h 23m 09s.xml">
+      <configuration name="MyListTest.MyListStrategyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4021000" />
+    <option name="totallyTimeSpent" value="5929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1239" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -465,12 +519,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2111437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25814536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25814536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -530,8 +584,8 @@
         <state relative-caret-position="45">
           <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="false" />
+            <element signature="e#125#126#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -584,8 +638,8 @@
         <state relative-caret-position="45">
           <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="false" />
+            <element signature="e#125#126#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -634,8 +688,8 @@
         <state relative-caret-position="45">
           <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="false" />
+            <element signature="e#125#126#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -705,7 +759,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/delegate/Dispatcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="e#140#141#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
@@ -720,6 +774,47 @@
         <state relative-caret-position="75">
           <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/StrategyA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/strategy/MyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#284#290#0" expanded="true" />
+            <element signature="e#659#665#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
